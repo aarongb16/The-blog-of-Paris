@@ -1,0 +1,38 @@
+[33mcommit 5415b3dee23d0570c5605debc138037f3d6f9b48[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Aaron <bastardogarciaaaron@gmail.com>
+Date:   Thu Jan 14 12:40:33 2021 -0430
+
+    Commit al master del blogpost en su version mas reciente
+
+ .swp            | Bin [31m0[m -> [32m12288[m bytes
+ css/estilos.css |  24 [32m++++++++++++++++++++++[m[31m--[m
+ index.html      |  10 [32m+++++++[m[31m---[m
+ 3 files changed, 29 insertions(+), 5 deletions(-)
+
+[33mcommit bc80fd9b93bbc818c23c8ef6cec8095fd89a2133[m
+Author: Aaron <bastardogarciaaaron@gmail.com>
+Date:   Sat Jan 9 13:03:40 2021 -0430
+
+    mi segundo commit en Paris
+
+ Paris.txt | 4 [32m++++[m
+ 1 file changed, 4 insertions(+)
+
+[33mcommit 71a45d51a2fc3843459b2926465fda3f094a3dfb[m
+Author: Aaron <bastardogarciaaaron@gmail.com>
+Date:   Sat Jan 9 12:53:40 2021 -0430
+
+    Ya agregue html y css
+
+ css/estilos.css |  3 [32m+++[m
+ index.html      | 16 [32m++++++++++++++++[m
+ 2 files changed, 19 insertions(+)
+
+[33mcommit e0594c2635c54d98623d7c9ffdaf46db5cc6eac5[m
+Author: Aaron <bastardogarciaaaron@gmail.com>
+Date:   Sat Jan 9 12:16:17 2021 -0430
+
+    Mi primer commit en Paris
+
+ Paris.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
