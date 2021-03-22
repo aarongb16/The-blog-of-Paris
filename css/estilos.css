@@ -43,3 +43,11 @@ body
 	font-size: 50px;
 	text-align: center;
 }
+
+#footer
+{
+  background: #777B;
+  color: white;
+  text-align: center;
+  padding: 0.5em;
+}
