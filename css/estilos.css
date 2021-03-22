@@ -49,8 +49,19 @@ body
 	font-size: 50px;
 	text-align: center;
 }
+<<<<<<< HEAD
 #post
 {
 	background: white;
 	padding: 1em;
 }
+=======
+
+#footer
+{
+  background: #37488b;
+  color: yellow;
+  text-align: center;
+  padding: 0.5em;
+}
+>>>>>>> footer
