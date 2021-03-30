@@ -7,10 +7,15 @@ París una ciudad única en el mundo.
 Que Descubriras de la ciudad de París.
 
 **- La historia de esta hermosa ciudad**
+
 **- El Metro y su construcción**
-**- La torre Eiffel **
+
+**-  La Torre Eiffel** 
+
 **- El Paisaje Urbano y sus mejores sitios**
+
 **- Cultura Parisina**
+
 **- La vida de los parisinos y mucho más**
 
 [![](https://i.imgur.com/bKy8hNh.jpg)](https://i.imgur.com/bKy8hNh.jpg)
