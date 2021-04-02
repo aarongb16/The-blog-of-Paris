@@ -22,4 +22,6 @@ Que Descubriras de la ciudad de París.
 
 **-  Estudios en la ciudad de París**
 
+**- Hecho por Aaron Bastardo**
+
 [![](https://i.imgur.com/bKy8hNh.jpg)](https://i.imgur.com/bKy8hNh.jpg)
