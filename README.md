@@ -18,4 +18,6 @@ Que Descubriras de la ciudad de París.
 
 **- La vida de los parisinos y mucho más**
 
+**- Precios y gastos en la ciudad de París**
+
 [![](https://i.imgur.com/bKy8hNh.jpg)](https://i.imgur.com/bKy8hNh.jpg)
